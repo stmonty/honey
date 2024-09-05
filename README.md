@@ -2,6 +2,10 @@
 
 Honey is currently a simple and sweet async runtime for learning purposes.
 
+Tokio is wonderful, and all the great work the Tokio team is appreciated! But I want to learn async from the ground-up in Rust, and so this project is to help me understand async Rust!
+
+Right now it doesn't really work, but hoping to get there!
+
 ## Building
 
 ### Dependencies
