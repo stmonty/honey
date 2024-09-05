@@ -4,6 +4,7 @@ version = "0.0.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "A Simple and Sweet Async Runtime"
+repository = "https://github.com/stmonty/honey"
 
 [dependencies]
 futures = "0.3.30"
