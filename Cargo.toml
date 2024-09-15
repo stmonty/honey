@@ -1,10 +1,9 @@
 [package]
 name = "honey"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 license = "Apache-2.0"
 description = "A Simple and Sweet Async Runtime"
 repository = "https://github.com/stmonty/honey"
 
 [dependencies]
-futures = "0.3.30"
